@@ -1,12 +1,7 @@
 import React from "react";
-import Card from "./components//Card";
 
-function Learn() {
-  return (
-    <div className="row">
-      <Card/>
-    </div>
-  );
+function Board(props) {
+  return <div className="wrapper">{props.children}</div>;
 }
 
-export default Learn;
+export default Board;

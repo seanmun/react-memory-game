@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "name": "ACE",
+      "image":
+        "./images/AS.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 2,
+      "name": "King",
+      "image":
+        "./images/KS.png",
+      "suit": "Restaurant Owner"
+    },
+    {
+      "id": 3,
+      "name": "Queen",
+      "image":
+      "./images/QS.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "image":
+      "./images/JS.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 5,
+      "name": "Ten",
+      "image":
+      "./images/10S.png",
+      "suit": "Spades"
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Nine",
+      "image":
+      "./images/9S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 7,
+      "name": "Eight",
+      "image":
+      "./images/8S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 8,
+      "name": "Seven",
+      "image":
+      "./images/7S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 9,
+      "name": "Six",
+      "image":
+      "./images/6S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 10,
+      "name": "Five",
+      "image":
+      "./images/5S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 11,
+      "name": "Four",
+      "image":
+      "./images/4S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 12,
+      "name": "Three",
+      "image":
+      "./images/3S.png",
+      "suit": "Spades"
+    },
+    {
+      "id": 13,
+      "name": "Two",
+      "image":
+      "./images/2S.png",
+      "suit": "Spades"
+    }
+  ]
+  
